@@ -1,6 +1,15 @@
 # E-Commerce Executive Scorecard & Profitability Analysis 📊
 
-![Dashboard Preview](ecommerce_dashboard_page-0001.png) ## 📌 Project Overview
+<div align="center">
+  <img src="ecommerce_dashboard_page.gif" width="80%" alt="Dashboard Interactive Demo"/>
+  <h4>Interactive Dashboard Demo</h4>
+  
+  <br><br> <img src="ecommerce_dashboard_page-0001.png" width="49%" alt="Page 1 Screenshot"/>
+  <img src="ecommerce_dashboard_page-0002.png" width="49%" alt="Page 2 Screenshot"/>
+  <h4>Dashboard Default & Specialized View</h4>
+</div>
+
+## 📌 Project Overview
 Business stakeholders frequently lack instant, reliable visibility into regional profitability and product performance, often relying on manual, static spreadsheets that delay critical decision-making. This project bridges that gap by providing a dynamic, automated executive scorecard.
 
 By transforming raw sales and operational data into a clean, interactive visual tool built on a robust data model, this project enables executive teams to instantly identify revenue drivers, track profit margins, and make data-driven operational decisions at a glance.
